@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>Quiz</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- <link rel="stylesheet" href="css/main.css"> -->
+  <script src="js/bf-quiz.js"></script>
+</head>
+
+<!--
+<body onload="BF_QUIZ.quizLoader.init('https://collegeadmissions.uchicago.edu/sites/all/themes/plaisance/js/bf-json/BuildingsQuiz2.json')">
+-->
+<body>
+<script> window.onload = function(){ BF_QUIZ.quizLoader.init('assets/bf-json/fyp-quiz.json'); } </script>
+<div id="site">
+  <nav>
+    <div class="container">
+      <div class="row">
+        <div class="three columns">
+          <div class="logo-wrapper"> <img src="assets/img/cg-logo.svg" /> </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <main>
+    <div class="container">
+      <div id="bf-quiz"></div>
+    </div>
+  </main>
+</div>
+</body>

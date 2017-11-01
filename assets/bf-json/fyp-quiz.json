@@ -1,0 +1,192 @@
+[
+  {
+    "quiz_title":"What is your Chakra balance?",
+    "quiz_results":[
+      {
+        "result": {
+          "title": "Firestarter",
+          "text": "You're balanced, but you're ready for action.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 0
+        }
+      },
+      {
+        "result": {
+          "title": "The Heart",
+          "text": "You follow your intuition no matter what.",
+          "id": 1
+        }
+      },
+      {
+        "result": {
+          "title": "Hall Monitor",
+          "text": "Lighten up a bit.",
+          "id": 2
+        }
+      },
+      {
+        "result": {
+          "title": "Freespirit",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 3
+        }
+      }
+    ],
+    "quiz_questions":[
+      {
+        "question": {
+          "text": "How do you feel about your intuition",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Eh, I don't usually trust my intuition.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "Yeah. I have it, and I use it easily.",
+                "value": 0
+              }
+            },
+            {
+              	"answer": {
+              	"text": "I might use my intuition too much? Probably not though.",
+              	"value": 1
+              	}
+	         }
+          ]
+        }
+      },
+
+      {
+        "question": {
+          "text": "Do you think psychic phenomena exists?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "No way.",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I think psychic phenomena are a natural part of the world.",
+                "value": 0
+              }
+            },
+            {
+              "answer":{
+              	"text": "Most things are explained by psychic phenomena, not physics.",
+              	"value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "What's your relationship with your dreams?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I can't recall them.",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I always recall them, and reflect on them.",
+                "value": 0
+              }
+            },
+            {
+              "answer":{
+              	"text": "Sometimes I can't tell the difference between dreams and reality.",
+              	"value": 1
+
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you use your power?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "People usually manipulate me.",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I'm aware of and comfortable with my personal power.",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "I'm usually manipulating others to my will.",
+                "value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How confident are you?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Don't have a lot of confidence.",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I'm justifiably confident.",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+              	"text": "I'm the best.",
+              	"value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+      	"question":{
+      		"text": "One last question, what's your follow through?",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I say what I do, come what may.",
+      		  	  "value": 1
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "If I can do it, I'll say it.",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "Eh, I rarely do what I say.",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      }
+    ]
+  }
+]

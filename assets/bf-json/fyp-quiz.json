@@ -1,6 +1,6 @@
 [
   {
-    "quiz_title":"What is your Chakra balance?",
+    "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Take",
     "quiz_results":[
       {
         "result": {
@@ -48,12 +48,14 @@
             {
               "answer": {
                 "text": "Yeah. I have it, and I use it easily.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 0
               }
             },
             {
               	"answer": {
               	"text": "I might use my intuition too much? Probably not though.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
               	"value": 1
               	}
 	         }
@@ -68,18 +70,21 @@
             {
               "answer": {
                 "text": "No way.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "I think psychic phenomena are a natural part of the world.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 0
               }
             },
             {
               "answer":{
               	"text": "Most things are explained by psychic phenomena, not physics.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
               	"value": 1
               }
             }
@@ -93,18 +98,21 @@
             {
               "answer": {
                 "text": "I can't recall them.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "I always recall them, and reflect on them.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 0
               }
             },
             {
               "answer":{
               	"text": "Sometimes I can't tell the difference between dreams and reality.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
               	"value": 1
 
               }
@@ -119,18 +127,21 @@
             {
               "answer": {
                 "text": "People usually manipulate me.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "I'm aware of and comfortable with my personal power.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 0
               }
             },
             {
               "answer": {
                 "text": "I'm usually manipulating others to my will.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 1
               }
             }
@@ -144,18 +155,21 @@
             {
               "answer": {
                 "text": "Don't have a lot of confidence.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "I'm justifiably confident.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
                 "value": 0
               }
             },
             {
               "answer": {
               	"text": "I'm the best.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
               	"value": 1
               }
             }
@@ -169,18 +183,21 @@
       		  {
       		  	"answer": {
       		  	  "text": "I say what I do, come what may.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
       		  	  "value": 1
       		  	}
       		  },
             {
       		  	"answer": {
       		  	  "text": "If I can do it, I'll say it.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
       		  	  "value": 0
       		  	}
       		  },
       		  {
       		  	"answer": {
       		  		"text": "Eh, I rarely do what I say.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
       		  		"value": 1
       		  	}
       		  }

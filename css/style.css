@@ -10,6 +10,7 @@
 }
 body, html {
   font-family: 'brandon', serif;
+  font-size: 62.5%;
     margin:0;
     padding:0;
     color:#000;
@@ -145,4 +146,33 @@ input[type=checkbox] {
     color: #f3f3f3;
     text-align: center;
     line-height: 15px;
+}
+h1 { font-size: 4rem; line-height: 1.2; }
+h2 { font-size: 3rem; line-height: 1.2; }
+h3 { font-size: 1.125rem; line-height: 1.2; }
+p { font-size: 1.5rem; line-height: 1; }
+label { font-size: 1.5rem; }
+#statistics {
+  height: 60px;
+}
+#statistics .profile,
+#statistics .item-icon {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.profile-image,
+.author {
+  display:inline-block;
+}
+
+.profile-image-wrapper {
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  background-color: purple;
+  border-radius: 50%;
+}
+.author span {
+  display:block;
 }

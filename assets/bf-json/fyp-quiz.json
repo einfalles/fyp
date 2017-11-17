@@ -1,11 +1,13 @@
 [
   {
     "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Take",
+    "quiz_sub": "Sometimes there are too many things. Find the practice for you.",
     "quiz_results":[
       {
         "result": {
-          "title": "Firestarter",
-          "text": "You're balanced, but you're ready for action.",
+          "title": "Elephant",
+          "totem": "elephant",
+          "text": "It seems that your health is out of balance. Consider yoga.",
           "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
           "id": 0
         }
@@ -13,6 +15,7 @@
       {
         "result": {
           "title": "The Heart",
+          "totem": "crocodile",
           "text": "You follow your intuition no matter what.",
           "id": 1
         }
@@ -20,6 +23,7 @@
       {
         "result": {
           "title": "Hall Monitor",
+          "totem": "hall",
           "text": "Lighten up a bit.",
           "id": 2
         }
@@ -27,6 +31,7 @@
       {
         "result": {
           "title": "Freespirit",
+          "totem": "spirit",
           "text": "Weee.",
           "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
           "id": 3
@@ -36,26 +41,57 @@
     "quiz_questions":[
       {
         "question": {
-          "text": "How do you feel about your intuition",
+          "text": "Spirit?",
+          "image": "https://images.unsplash.com/photo-1470167290877-7d5d3446de4c?auto=format&fit=crop&w=2456&q=60",
           "question_answers":[
             {
               "answer": {
-                "text": "Eh, I don't usually trust my intuition.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I am definitely above or below my ideal weight OR I don’t know my ideal weight.",
+                "totem": "spirit",
                 "value": 3
               }
             },
             {
               "answer": {
-                "text": "Yeah. I have it, and I use it easily.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I am comfortable with my body and I am at my ideal weight.",
+                "totem": "spirit",
+                "value": 0
+              }
+            },
+            {
+                "answer": {
+                "text": "I am only a few pounds from my ideal weight.",
+                "totem": "spirit",
+                "value": 1
+                }
+           }
+          ]
+        }
+      },
+
+      {
+        "question": {
+          "text": "Hall",
+          "image": "https://images.unsplash.com/photo-1470167290877-7d5d3446de4c?auto=format&fit=crop&w=2456&q=60",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am definitely above or below my ideal weight OR I don’t know my ideal weight.",
+                "totem": "hall",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I am comfortable with my body and I am at my ideal weight.",
+                "totem": "hall",
                 "value": 0
               }
             },
             {
               	"answer": {
-              	"text": "I might use my intuition too much? Probably not though.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"text": "I am only a few pounds from my ideal weight.",
+                "totem": "hall",
               	"value": 1
               	}
 	         }
@@ -65,26 +101,57 @@
 
       {
         "question": {
-          "text": "Do you think psychic phenomena exists?",
+          "text": "How do you feel about your weight?",
+          "image": "https://images.unsplash.com/photo-1470167290877-7d5d3446de4c?auto=format&fit=crop&w=2456&q=60",
           "question_answers":[
             {
               "answer": {
-                "text": "No way.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I am definitely above or below my ideal weight OR I don’t know my ideal weight.",
+                "totem": "elephant",
                 "value": 3
               }
             },
             {
               "answer": {
-                "text": "I think psychic phenomena are a natural part of the world.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I am comfortable with my body and I am at my ideal weight.",
+                "totem": "elephant",
+                "value": 0
+              }
+            },
+            {
+              	"answer": {
+              	"text": "I am only a few pounds from my ideal weight.",
+                "totem": "elephant",
+              	"value": 1
+              	}
+	         }
+          ]
+        }
+      },
+
+      {
+        "question": {
+          "text": "How do you feel about your finances?",
+          "image": "https://images.unsplash.com/photo-1494888427482-242d32babc0b?auto=format&fit=crop&w=1950&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am in considerable debt OR I am unable to spend any of my money.  ",
+                "totem": "elephant",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I have no financial worries; I always have enough.",
+                "totem": "elephant",
                 "value": 0
               }
             },
             {
               "answer":{
-              	"text": "Most things are explained by psychic phenomena, not physics.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"text": "I have no problem attracting money, but I never seem to have enough.",
+                "totem": "elephant",
               	"value": 1
               }
             }
@@ -93,26 +160,27 @@
       },
       {
         "question": {
-          "text": "What's your relationship with your dreams?",
+          "text": "How do you feel about exercise?",
+          "image":"https://images.unsplash.com/photo-1491484815100-6f2890d04007?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "question_answers":[
             {
               "answer": {
-                "text": "I can't recall them.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I rarely exercise.",
+                "totem": "elephant",
                 "value": 3
               }
             },
             {
               "answer": {
-                "text": "I always recall them, and reflect on them.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I maintain a regular, balance exercise routine.",
+                "totem": "elephant",
                 "value": 0
               }
             },
             {
               "answer":{
-              	"text": "Sometimes I can't tell the difference between dreams and reality.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"text": "I am obsessed with exercise.",
+                "totem": "elephant",
               	"value": 1
 
               }
@@ -122,26 +190,27 @@
       },
       {
         "question": {
-          "text": "How do you use your power?",
+          "text": "How do you feel about your emotions?",
+          "image": "https://images.unsplash.com/photo-1486182706240-e597091e0cfc?auto=format&fit=crop&w=1951&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "question_answers":[
             {
               "answer": {
-                "text": "People usually manipulate me.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I am out of touch with my emotions.",
+                "totem": "crocodile",
                 "value": 3
               }
             },
             {
               "answer": {
-                "text": "I'm aware of and comfortable with my personal power.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I am able to express my emotions when appropriate.",
+                "totem": "crocodile",
                 "value": 0
               }
             },
             {
               "answer": {
-                "text": "I'm usually manipulating others to my will.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I freely express my emotions at every opportunity.",
+                "totem": "crocodile",
                 "value": 1
               }
             }
@@ -150,26 +219,27 @@
       },
       {
         "question": {
-          "text": "How confident are you?",
+          "text": "How do you feel about your sex life?",
+          "image":"https://images.unsplash.com/photo-1492632503949-a31d9972b400?auto=format&fit=crop&w=1567&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "question_answers":[
             {
               "answer": {
-                "text": "Don't have a lot of confidence.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I have no sex life.",
+                "totem": "crocodile",
                 "value": 3
               }
             },
             {
               "answer": {
-                "text": "I'm justifiably confident.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "text": "I enjoy an active sex life.",
+                "totem": "crocodile",
                 "value": 0
               }
             },
             {
               "answer": {
-              	"text": "I'm the best.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"text": "I can’t stop thinking about sex.",
+                "totem": "crocodile",
               	"value": 1
               }
             }
@@ -178,32 +248,124 @@
       },
       {
       	"question":{
-      		"text": "One last question, what's your follow through?",
+      		"text": "How do you feel about relaxation and recreation?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
       		"question_answers":[
       		  {
       		  	"answer": {
-      		  	  "text": "I say what I do, come what may.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
-      		  	  "value": 1
+      		  	  "text": "I rarely make time to relax and enjoy myself.",
+                "totem": "crocodile",
+      		  	  "value": 3
       		  	}
       		  },
             {
       		  	"answer": {
-      		  	  "text": "If I can do it, I'll say it.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      		  	  "text": "I always find time to relax and enjoy myself.",
+                "totem": "crocodile",
       		  	  "value": 0
       		  	}
       		  },
       		  {
       		  	"answer": {
-      		  		"text": "Eh, I rarely do what I say.",
-                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      		  		"text": "I can never get enough pleasure.",
+                "totem": "crocodile",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about your goal-setting?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I am often unable to achieve my goals.",
+                "totem": "goat",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always set and achieve reasonable goals.",
+                "totem": "goat",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I tend to set and strive for unrealistic goals",
+                "totem": "goat",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about responsibility?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I am often unable to achieve my goals.",
+                "totem": "goat",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always set and achieve reasonable goals.",
+                "totem": "goat",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I tend to set and strive for unrealistic goals",
+                "totem": "goat",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about your goal-setting?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I am often unable to achieve my goals.",
+                "totem": "goat",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always set and achieve reasonable goals.",
+                "totem": "goat",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I tend to set and strive for unrealistic goals",
+                "totem": "goat",
       		  		"value": 1
       		  	}
       		  }
       		]
       	}
       }
+
     ]
   }
 ]

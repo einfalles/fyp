@@ -3,10 +3,10 @@
 Hello, person. You shouldn't really be reading this unless you're a part of the Conscious Good team. But it's fine. This is a sort of "staging" environment for FYP Lite, and, even then, FYP Lite is a prototype for better and full FYP.
 
 # Todo
-- [ ] Select proper questions to answer the Kundalini quiz (refer to Trina)
+- [x] Select proper questions to answer the Kundalini quiz (refer to Trina)
 - [ ] Select proper images for answers
 - [ ] Create hover state for answers. Hover states must match those on the core CG website
-- [ ] Reduce typographic styles being used. Refer to the core CG website for the proper size, colors, line-height,etc for h1,h2,h3, etc
+- [x] Reduce typographic styles being used. Refer to the core CG website for the proper size, colors, line-height,etc for h1,h2,h3, etc
 - [ ] Write HTML/CSS for Question Prompt Image a la buzzfeed quizzes
 - [ ] Write HTML/CSS to block user from getting results before signing up for newsletter
 - [ ] Test FYP on various browsers. Document issues.

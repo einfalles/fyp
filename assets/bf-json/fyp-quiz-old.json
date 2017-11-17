@@ -1,0 +1,210 @@
+[
+  {
+    "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Take",
+    "quiz_sub": "Sometimes there are too many things. Find the practice for you.",
+    "quiz_results":[
+      {
+        "result": {
+          "title": "Firestarter",
+          "text": "You're balanced, but you're ready for action.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 0
+        }
+      },
+      {
+        "result": {
+          "title": "The Heart",
+          "text": "You follow your intuition no matter what.",
+          "id": 1
+        }
+      },
+      {
+        "result": {
+          "title": "Hall Monitor",
+          "text": "Lighten up a bit.",
+          "id": 2
+        }
+      },
+      {
+        "result": {
+          "title": "Freespirit",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 3
+        }
+      }
+    ],
+    "quiz_questions":[
+      {
+        "question": {
+          "text": "How do you feel about your weight?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am definitely above or below my ideal weight OR I don’t know my ideal weight.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I am comfortable with my body and I am at my ideal weight.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 0
+              }
+            },
+            {
+              	"answer": {
+              	"text": "I am only a few pounds from my ideal weight.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"value": 1
+              	}
+	         }
+          ]
+        }
+      },
+
+      {
+        "question": {
+          "text": "How do you feel about your finances?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am in considerable debt OR I am unable to spend any of my money.  ",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I have no financial worries; I always have enough.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer":{
+              	"text": "I have no problem attracting money, but I never seem to have enough.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you feel about exercise?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I rarely exercise.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I maintain a regular, balance exercise routine.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer":{
+              	"text": "I am obsessed with exercise.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"value": 1
+
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you feel about your emotions?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am out of touch with my emotions.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I am able to express my emotions when appropriate.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "I freely express my emotions at every opportunity.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you feel about your sex life?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I have no sex life.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I enjoy an active sex life.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+              	"text": "I can’t stop thinking about sex.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+              	"value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+      	"question":{
+      		"text": "How do you feel about relaxation and recreation?",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I rarely make time to relax and enjoy myself.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always find time to relax and enjoy myself.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I can never get enough pleasure.",
+                "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      }
+    ]
+  }
+]

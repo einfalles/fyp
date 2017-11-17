@@ -138,6 +138,8 @@ BF_QUIZ.quiz = function () {
 
     calcResult = function calcResult() {
         var highest = 0;
+        var totem_hi = "";
+        var totem_hi_val = 0;
         for (var i = 0; i < results.length; i++) {
             results[i].countof = 0;
             for (var j = 0; j < userAnswers.length; j++) {
@@ -151,13 +153,14 @@ BF_QUIZ.quiz = function () {
             }
         }
         for (var j = 0; j < userAnswersWithTotem.length; j++){
-          console.log(userAnswersWithTotem[j]);
           var totemValue = parseInt(userAnswersWithTotem[j]['quizvalue']);
           var currentValue = parseInt(totems[userAnswersWithTotem[j]['totem']]);
           totems[userAnswersWithTotem[j]['totem']] = totemValue + currentValue;
-
+          if (totems[userAnswersWithTotem[j]['totem']] >= totem_hi_val) {
+            totem_hi_val = totems[userAnswersWithTotem[j]['totem']];
+            totem_hi = userAnswersWithTotem[j]['totem'];
+          }
         }
-        console.log(totems);
         //disable the inputs after the quiz is finished
         writeResult();
         disableAnswers();

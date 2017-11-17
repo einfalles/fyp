@@ -14,7 +14,7 @@
       },
       {
         "result": {
-          "title": "The Heart",
+          "title": "Crocodile",
           "totem": "crocodile",
           "text": "You follow your intuition no matter what.",
           "id": 1
@@ -22,19 +22,46 @@
       },
       {
         "result": {
-          "title": "Hall Monitor",
-          "totem": "hall",
+          "title": "Goat",
+          "totem": "goat",
           "text": "Lighten up a bit.",
           "id": 2
         }
       },
       {
         "result": {
-          "title": "Freespirit",
-          "totem": "spirit",
+          "title": "Deer",
+          "totem": "deer",
           "text": "Weee.",
           "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
           "id": 3
+        }
+      },
+      {
+        "result": {
+          "title": "Lion",
+          "totem": "lion",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 4
+        }
+      },
+      {
+        "result": {
+          "title": "Owl",
+          "totem": "owl",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 5
+        }
+      },
+      {
+        "result": {
+          "title": "Butterfly",
+          "totem": "butterfly",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 6
         }
       }
     ],

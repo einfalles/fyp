@@ -23,7 +23,7 @@ BF_QUIZ.quiz = function () {
     "use strict";
 
     // Sets variables
-    var highest_score, quiz_div, quiz_title, quiz_sub, quiz_image, questions = [],
+    var totem_highest = {}, highest_score, quiz_div, quiz_title, quiz_sub, quiz_image, questions = [],
         results = [], totems = {}, inputs = [], answers = [], userAnswers = [], userAnswersWithTotem = [],
 
     // Gets the Quiz "canvas"
@@ -187,16 +187,12 @@ BF_QUIZ.quiz = function () {
         newResult.appendChild(newResultWrapper);
         quiz_div.appendChild(newResult);
         var site = document.getElementById('site');
-        var newPopup = document.createElement('div');
-        newPopup.className = "full";
-        var newButton = document.createElement("button");
-        newPopup.appendChild(newButton);
-        site.appendChild(newPopup);
-        $(document).ready(function(){
-          $('button').on('click',function(){
-            alert("FUCK");
-          });
-        });
+        // var newPopup = document.createElement('div');
+        // newPopup.className = "full";
+        // var newButton = document.createElement("button");
+        // newPopup.appendChild(newButton);
+        // site.appendChild(newPopup);
+
     },
 
     updateSelectedAnswer = function updateSelectedAnswer(element) {

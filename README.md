@@ -8,7 +8,7 @@ Hello, person. You shouldn't really be reading this unless you're a part of the 
 - [ ] Create hover state for answers. Hover states must match those on the core CG website
 - [x] Reduce typographic styles being used. Refer to the core CG website for the proper size, colors, line-height,etc for h1,h2,h3, etc
 - [ ] Write HTML/CSS for Question Prompt Image a la buzzfeed quizzes
-- [ ] Write HTML/CSS to block user from getting results before signing up for newsletter
+- [x] Write HTML/CSS to block user from getting results before signing up for newsletter
 - [ ] Test FYP on various browsers. Document issues.
 - [ ] Create Mailchimp subgroup for users who sign up via FYP Lite
 - [ ] Create FYP subdomain on core CG website

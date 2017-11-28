@@ -1,0 +1,701 @@
+[
+  {
+    "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Take",
+    "quiz_sub": "Sometimes there are too many things. Find the practice for you.",
+    "quiz_results":[
+      {
+        "result": {
+          "title": "Elephant",
+          "totem": "elephant",
+          "text": "It seems that your health is out of balance. Consider yoga.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 0
+        }
+      },
+      {
+        "result": {
+          "title": "Crocodile",
+          "totem": "crocodile",
+          "text": "You follow your intuition no matter what.",
+          "id": 1
+        }
+      },
+      {
+        "result": {
+          "title": "Goat",
+          "totem": "goat",
+          "text": "Lighten up a bit.",
+          "id": 2
+        }
+      },
+      {
+        "result": {
+          "title": "Deer",
+          "totem": "deer",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 3
+        }
+      },
+      {
+        "result": {
+          "title": "Lion",
+          "totem": "lion",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 4
+        }
+      },
+      {
+        "result": {
+          "title": "Owl",
+          "totem": "owl",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 5
+        }
+      },
+      {
+        "result": {
+          "title": "Butterfly",
+          "totem": "butterfly",
+          "text": "Weee.",
+          "image": "http://www.ux1.eiu.edu/~cfjps/1300/reg.gif",
+          "id": 6
+        }
+      }
+    ],
+    "quiz_questions":[
+
+      {
+        "question": {
+          "text": "How do you feel about your weight?",
+          "image": "https://images.unsplash.com/photo-1470167290877-7d5d3446de4c?auto=format&fit=crop&w=2456&q=60",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am definitely above or below my ideal weight OR I don’t know my ideal weight.",
+                "totem": "elephant",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I am comfortable with my body and I am at my ideal weight.",
+                "totem": "elephant",
+                "value": 0
+              }
+            },
+            {
+              	"answer": {
+              	"text": "I am only a few pounds from my ideal weight.",
+                "totem": "elephant",
+              	"value": 1
+              	}
+	         }
+          ]
+        }
+      },
+
+      {
+        "question": {
+          "text": "How do you feel about your finances?",
+          "image": "https://images.unsplash.com/photo-1494888427482-242d32babc0b?auto=format&fit=crop&w=1950&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am in considerable debt OR I am unable to spend any of my money.  ",
+                "totem": "elephant",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I have no financial worries; I always have enough.",
+                "totem": "elephant",
+                "value": 0
+              }
+            },
+            {
+              "answer":{
+              	"text": "I have no problem attracting money, but I never seem to have enough.",
+                "totem": "elephant",
+              	"value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you feel about exercise?",
+          "image":"https://images.unsplash.com/photo-1491484815100-6f2890d04007?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I rarely exercise.",
+                "totem": "elephant",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I maintain a regular, balance exercise routine.",
+                "totem": "elephant",
+                "value": 0
+              }
+            },
+            {
+              "answer":{
+              	"text": "I am obsessed with exercise.",
+                "totem": "elephant",
+              	"value": 1
+
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you feel about your emotions?",
+          "image": "https://images.unsplash.com/photo-1486182706240-e597091e0cfc?auto=format&fit=crop&w=1951&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I am out of touch with my emotions.",
+                "totem": "crocodile",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I am able to express my emotions when appropriate.",
+                "totem": "crocodile",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "I freely express my emotions at every opportunity.",
+                "totem": "crocodile",
+                "value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "How do you feel about your sex life?",
+          "image":"https://images.unsplash.com/photo-1492632503949-a31d9972b400?auto=format&fit=crop&w=1567&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "I have no sex life.",
+                "totem": "crocodile",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "I enjoy an active sex life.",
+                "totem": "crocodile",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+              	"text": "I can’t stop thinking about sex.",
+                "totem": "crocodile",
+              	"value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+      	"question":{
+      		"text": "How do you feel about relaxation and recreation?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I rarely make time to relax and enjoy myself.",
+                "totem": "crocodile",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always find time to relax and enjoy myself.",
+                "totem": "crocodile",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I can never get enough pleasure.",
+                "totem": "crocodile",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about your goal-setting?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I am often unable to achieve my goals.",
+                "totem": "goat",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always set and achieve reasonable goals.",
+                "totem": "goat",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I tend to set and strive for unrealistic goals",
+                "totem": "goat",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about responsibility?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I am often unable to achieve my goals.",
+                "totem": "goat",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always set and achieve reasonable goals.",
+                "totem": "goat",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I tend to set and strive for unrealistic goals",
+                "totem": "goat",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about your level of energy?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I never seem to have enough energy.",
+                "totem": "goat",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always have enough energy.",
+                "totem": "goat",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I have so much energy, I have difficulty resting or sleeping.",
+                "totem": "goat",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+      {
+      	"question":{
+      		"text": "How do you feel about your normal state of emotions?",
+          "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      		"question_answers":[
+      		  {
+      		  	"answer": {
+      		  	  "text": "I often feel depressed and sad.",
+                "totem": "deer",
+      		  	  "value": 3
+      		  	}
+      		  },
+            {
+      		  	"answer": {
+      		  	  "text": "I always feel happy and content.",
+                "totem": "deer",
+      		  	  "value": 0
+      		  	}
+      		  },
+      		  {
+      		  	"answer": {
+      		  		"text": "I can sometimes feel ecstatic, but can swing quickly.",
+                "totem": "deer",
+      		  		"value": 1
+      		  	}
+      		  }
+      		]
+      	}
+      },
+
+
+{
+  "question":{
+    "text": "How do you feel about your friendships?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I find it difficult to make friends.",
+          "totem": "deer",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I am able to make and keep friends easily.",
+          "totem": "deer",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I have many friends but few close ones.",
+          "totem": "deer",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your long-term relationships?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I have maintained very few long-term relationships.",
+          "totem": "deer",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I have several long-term relationships outside of my family.",
+          "totem": "deer",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "None of my long-term relationships are deep or meaningful.",
+          "totem": "deer",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your ability to listen well?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I find it difficult to listen to others.",
+          "totem": "lion",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I am able to hear what someone is trying to say.",
+          "totem": "lion",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I often interrupt because I think I hear what has not been said.",
+          "totem": "lion",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about a few ideas at the same time?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I am unable to focus on several ideas at once.",
+          "totem": "lion",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I am able to synthesize different ideas.",
+          "totem": "lion",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I often confuse others with different points of view all at once.",
+          "totem": "lion",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your creativity?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I have few creative pastimes.",
+          "totem": "lion",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I have several creative outlets.",
+          "totem": "lion",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I am driven by my need to be creative.",
+          "totem": "lion",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your intuition?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I am unable to trust my intuition.",
+          "totem": "owl",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I am often able to access and utilize my intuition.",
+          "totem": "owl",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I am overly reliant on my intuition.",
+          "totem": "owl",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your dreams?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I can never remember my dreams.",
+          "totem": "owl",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I often recall and reflect upon my dreams.",
+          "totem": "owl",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I often have difficulty distinguishing between dreams and reality.",
+          "totem": "owl",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your visual sense?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I have a poor visual sense.",
+          "totem": "owl",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I have a heightened visual awareness.",
+          "totem": "owl",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I am overly reliant upon my visual perceptions.",
+          "totem": "owl",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your personal development?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I do not really know myself.",
+          "totem": "butterfly",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I have spent time getting to know and like myself.",
+          "totem": "butterfly",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I find it difficult to appreciate anything beyond myself.",
+          "totem": "butterfly",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your thinking?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I rarely analyze anything.",
+          "totem": "butterfly",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I often reflect upon an issue or an action and learn from it.",
+          "totem": "butterfly",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I am overly analytical of my actions and situation.",
+          "totem": "butterfly",
+          "value": 1
+        }
+      }
+    ]
+  }
+},
+
+{
+  "question":{
+    "text": "How do you feel about your spirituality?",
+    "image":"https://images.unsplash.com/photo-1504338789174-3f2988c6dd90?auto=format&fit=crop&w=1400&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+    "question_answers":[
+      {
+        "answer": {
+          "text": "I have not experienced anything I would describe as spiritual.",
+          "totem": "butterfly",
+          "value": 3
+        }
+      },
+      {
+        "answer": {
+          "text": "I have integrated one or more profound spiritual experiences.",
+          "totem": "butterfly",
+          "value": 0
+        }
+      },
+      {
+        "answer": {
+          "text": "I have no real interest in anything outside of the spiritual.",
+          "totem": "butterfly",
+          "value": 1
+        }
+      }
+    ]
+  }
+}
+
+
+    ]
+  }
+]

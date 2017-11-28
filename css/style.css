@@ -256,3 +256,16 @@ h1 {
   .quiz-question-image-wrapper { max-height: 250px; }
   .quiz-question-text-wrapper h2 { font-size: 1.5rem; letter-spacing: 0.25px; }
 }
+.quiz-result {
+  padding-top: 5rem;
+}
+.quiz-result-text-wrapper h3 {
+  padding-top: 2rem;
+  letter-spacing: 0.5px;
+  text-align: center;
+  font-size: 2rem;
+}
+.quiz-result-text-wrapper p {
+  padding: 0 1rem;
+  line-height: 1.26;
+}

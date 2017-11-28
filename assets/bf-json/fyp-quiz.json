@@ -1,7 +1,7 @@
 [
   {
     "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Take",
-    "quiz_sub": "Sometimes there are too many things. Find the practice for you.",
+    "quiz_sub": "Sometimes there are too many choices. Find the right practice for you and you’ll find your bliss. Tell us how you are feeling and we’ll suggest a practice for you.",
     "quiz_results":[
       {
         "result": {
@@ -16,7 +16,7 @@
         "result": {
           "title": "Crocodile",
           "totem": "crocodile",
-          "text": "Your internal dialogue might be damaged. Consider yin yoga.",
+          "text": "Your internal dialogue might be out of balance. Consider yin yoga.",
           "image": "https://images.unsplash.com/photo-1477764085876-1df3917e052f?auto=format&fit=crop&w=1651&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "id": 1
         }

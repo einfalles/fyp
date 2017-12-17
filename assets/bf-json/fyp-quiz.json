@@ -1,7 +1,7 @@
 [
   {
-    "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Take",
-    "quiz_sub": "Sometimes there are too many choices. Find the right practice for you and you’ll find your bliss. Tell us how you are feeling and we’ll suggest a practice for you.",
+    "quiz_title":"Tell Us How You're Feeling About Work And We'll Tell You What Yoga You Should Practice",
+    "quiz_sub": "Sometimes there are too many choices. Even choosing the best path to mind-body-spirit balance. Tell us how you are feeling, and we’ll suggest a yoga practice. Once you find the right practice for you, you’ll find your bliss.",
     "quiz_results":[
       {
         "result": {
@@ -444,7 +444,7 @@
       },
       {
         "answer": {
-          "text": "I find it difficult to appreciate anything beyond myself.",
+          "text": "I find it difficult to appreciate anyone beyond myself.",
           "totem": "butterfly",
           "value": 1
         }

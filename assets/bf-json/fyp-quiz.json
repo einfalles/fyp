@@ -7,7 +7,7 @@
         "result": {
           "title": "Elephant",
           "totem": "elephant",
-          "text": "Your totem is the elephant.  Your 1st or root chakra may be out of balance so you may want to try a hatha yoga practice.  Hatha yoga is slow and grounding, creating a good foundation.",
+          "text": "Your totem is the elephant.  Your 1st or root chakra may be out of balance so you may want to try a hatha yoga practice.  Hatha yoga is slow and grounding, creating a good foundation. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1500614922032-b6dd337b1313?auto=format&fit=crop&w=1650&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "id": 0
         }
@@ -16,7 +16,7 @@
         "result": {
           "title": "Crocodile",
           "totem": "crocodile",
-          "text": "Your totem is the crocodile.  Your 2nd or sacral spine chakra may be out of balance so you may want to try an Iyengar yoga practice.  Iyengar yoga requires an attention to detail and proper alignment.",
+          "text": "Your totem is the crocodile.  Your 2nd or sacral spine chakra may be out of balance so you may want to try an Iyengar yoga practice.  Iyengar yoga requires an attention to detail and proper alignment. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1477764085876-1df3917e052f?auto=format&fit=crop&w=1651&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "id": 1
         }
@@ -25,7 +25,7 @@
         "result": {
           "title": "Goat",
           "totem": "goat",
-          "text": "Your totem is the goat.  Your 3rd or navel chakra may be out of balance so you may want to try an ashtanga yoga practice.  Ashtanga is a series of postures that build heat in the body and strengthens muscles, especially the core.",
+          "text": "Your totem is the goat.  Your 3rd or navel chakra may be out of balance so you may want to try an ashtanga yoga practice.  Ashtanga is a series of postures that build heat in the body and strengthens muscles, especially the core. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1499354725857-ed61abe693f8?auto=format&fit=crop&w=1650&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
           "id": 2
         }
@@ -34,7 +34,7 @@
         "result": {
           "title": "Deer",
           "totem": "deer",
-          "text": "Your totem is the deer.  Your 4th or heart chakra may be out of balance so you may want to try a qigong practice.  Qigong – not typically defined as yoga - but it has a powerful impact on balancing mind, body and spirit none the less. Qigong strengthens and heals internal organs.",
+          "text": "Your totem is the deer.  Your 4th or heart chakra may be out of balance so you may want to try a qigong practice.  Qigong – not typically defined as yoga - but it has a powerful impact on balancing mind, body and spirit none the less. Qigong strengthens and heals internal organs. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1476922027627-aa7293e3aaa8",
           "id": 3
         }
@@ -43,7 +43,7 @@
         "result": {
           "title": "Lion",
           "totem": "lion",
-          "text": "Your totem is the lion.  Your 5th or throat chakra may be out of balance so you may want to try a pranayama practice.  Practicing pranayama opens the throat and lungs and improves communication.",
+          "text": "Your totem is the lion.  Your 5th or throat chakra may be out of balance so you may want to try a pranayama practice.  Practicing pranayama opens the throat and lungs and improves communication. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1465979058110-bb2dd732b99d",
           "id": 4
         }
@@ -52,7 +52,7 @@
         "result": {
           "title": "Owl",
           "totem": "owl",
-          "text": "Your totem is the owl.  Your 6th or third eye chakra may be out of balance so you may want to try a kundalini yoga practice.  Kundalini helps the glands and nervous system and improves intuition.  It’s also a good yoga practice to bring all chakras into balance.",
+          "text": "Your totem is the owl.  Your 6th or third eye chakra may be out of balance so you may want to try a kundalini yoga practice.  Kundalini helps the glands and nervous system and improves intuition.  It’s also a good yoga practice to bring all chakras into balance. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1500373994708-4d781bd7bd15",
           "id": 5
         }
@@ -61,7 +61,7 @@
         "result": {
           "title": "Butterfly",
           "totem": "butterfly",
-          "text": "Your totem is the lotus flower.  Your 7th or crown chakra may be out of balance so you may want to try a bhakti yoga practice. Bhakti is the yoga of devotion and understanding and will help you to experience “all as one”.",
+          "text": "Your totem is the lotus flower.  Your 7th or crown chakra may be out of balance so you may want to try a bhakti yoga practice. Bhakti is the yoga of devotion and understanding and will help you to experience “all as one”. Be Good to Yourself ConsciousGood.com",
           "image": "https://images.unsplash.com/photo-1485842295075-1c7b2037114c",
           "id": 6
         }
@@ -459,7 +459,7 @@
     "question_answers":[
       {
         "answer": {
-          "text": "I have not experienced anything I would describe as spiritual.",
+          "text": "I have not experienced anyone I would describe as spiritual.",
           "totem": "butterfly",
           "value": 3
         }
